@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**felipetomelin/felipetomelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello World, I'm Felipe Tomelin 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I currently work as a software developer at ambev tech, I live in Blumenau-SC and am 19 years old.
+
+![Felipe Tomelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetomelin&show_icons=true&theme=ocean_dark)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetomelin&layout=compact&theme=ocean_dark)](https://github.com/felipetomelin/github-readme-stats)
+
+<!-- ## My Skills
+
+<img align="center" alt="c#" height="70" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
+
