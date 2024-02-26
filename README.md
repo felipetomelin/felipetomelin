@@ -29,7 +29,7 @@ me.say_hi()
 **Mensageria**
 
 ![RabbitMQ](https://img.shields.io/badge/Mensageria-rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Servicebus]()
+![Servicebus](https://img.shields.io/badge/Mensageria-Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Database**
 
@@ -46,5 +46,5 @@ me.say_hi()
 
 **Tools and Services:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Kubernetes](https://img.shields.io/badge/Services-kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](	https://img.shields.io/badge/Services-Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
