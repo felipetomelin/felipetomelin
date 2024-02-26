@@ -23,12 +23,12 @@ me.say_hi()
 
 **Cloud Services:**
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 **Mensageria**
 
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Mensageria-rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Servicebus]()
 
 **Database**
@@ -39,10 +39,10 @@ me.say_hi()
 
 **Programming Languages:**
 
-![C#](https://img.shields.io/badge/Code-C%23-239120-informational?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-14354C-informational?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-ED8B00-informational?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/Code-JavaScript-323330-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript](https://img.shields.io/badge/Code-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **Tools and Services:**
 
