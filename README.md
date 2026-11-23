@@ -1,49 +1,30 @@
-# Hello World 👋
+# Hi, I'm Felipe 👋
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+Senior Software Engineer on the Platform Engineering team at **Serasa Experian (PagueVeloz)**, Blumenau, Brazil (UTC-3).
 
+I build backend systems and internal platforms for fintech: payments, onboarding/KYC, CI/CD and developer tooling. Our platform team of 3 serves 60+ developers in payments and 600+ across Serasa ECS.
 
-class SoftwareEngineer:
+- **Platform:** led the Azure DevOps to GitLab migration with reusable CI/CD components for backend, monolith, microservices, web, mobile and data; SAST/DAST with Wiz and Checkmarx; internal libraries moved to JFrog.
+- **AI for engineering:** libraries for our AI gateway, an AI-assisted pentest platform, and AI-DLC (AWS) workshops for the SDLC.
+- **Before that:** Tech Lead for Acquiring (10 engineers) and Onboarding (5 engineers, built the product and the KYC flow); migrated 5 RavenDB databases to PostgreSQL/MongoDB with zero data loss. At Ambev Tech, rewrote the national ordering system.
 
-    def __init__(self):
-        self.name = "Felipe Tomelin"
-        self.role = "Software Engineer"
-        self.language_spoken = ["pt_BR", "en_US"]
+## Featured
 
-    def say_hi(self):
-        print("Hello this is my profile!")
+### [Mercury](https://github.com/felipetomelin/mercury) · Rust
+A terminal workspace for Codex and Claude Code: persistent sessions, account usage limits, guided scheduling, agent routing, and local Markdown memory with GraphRAG. Built on [herdr](https://github.com/herdrdev/herdr).
 
+### More
+- [CDCReplicaTest](https://github.com/felipetomelin/CDCReplicaTest): change data capture from MongoDB through Kafka to RavenDB, with performance metrics.
+- [gRPC-Demo](https://github.com/felipetomelin/gRPC-Demo): gRPC between C#/.NET 8, Go and Python services.
+- [HaveIBeenLeaked](https://github.com/felipetomelin/HaveIBeenLeaked): k-anonymity password leak check in Go; the password never leaves the client.
 
-me = SoftwareEngineer()
-me.say_hi()
-```
-## 🔧 Technologies & Tools
+## Stack
 
-**Cloud Services:**
+**Backend:** C#, .NET, Python, Go, TypeScript, Rust<br>
+**Cloud & platform:** AWS (EKS, SQS, SNS), Azure, Kubernetes, Docker, Helm, GitLab CI, JFrog<br>
+**Data & messaging:** PostgreSQL, SQL Server, MongoDB, Redis, Kafka, RabbitMQ<br>
+**Observability & security:** Datadog, Splunk, Grafana, Wiz, Checkmarx
 
-![AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Cloud-Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+## Elsewhere
 
-**Mensageria:**
-
-![RabbitMQ](https://img.shields.io/badge/Mensageria-rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Database:**
-
-![Postgres](https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLServer](https://img.shields.io/badge/Database-Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Programming Languages:**
-
-![C#](https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/Code-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Tools and Services:**
-
-![Kubernetes](https://img.shields.io/badge/Services-kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](	https://img.shields.io/badge/Services-Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+[ftomelin.dev](https://ftomelin.dev) · [LinkedIn](https://www.linkedin.com/in/felipe-tomelin/) · AWS Certified AI Practitioner
